@@ -1,6 +1,6 @@
 # Antoine Chosson
 
-**`Full-Stack Ruby-on-Rails, junior | Wordpress Developer, senior | Documentary filmmaker/Editor/Director of photography`**
+**`Junior Full Stack Developer (Rails) and Front-End Developer | Senior Wordpress Developer | Documentary Filmmaker`**
 
 Freelance depuis plus de 10 ans en tant que développeur Wordpress, j'ai travaillé en parallèle dans le cinéma documentaire et la communication. En 2023 j'ai décidé d'enrichir ma palette de compétences en intégrant le bootcamp Développement Web du Wagon, où j'ai été formé en full-stack Ruby-on-Rails. Je me forme aujourd'hui aux frameworks JS.
 
