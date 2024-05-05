@@ -2,9 +2,9 @@
 
 **`Junior Front-End Developer | Wordpress Developer | Documentary Filmmaker`**
 
-Développeur Wordpress Freelance, j'ai travaillé en parallèle dans le cinéma documentaire et la communication. En 2023 j'ai décidé d'enrichir ma palette de compétences en intégrant le bootcamp Développement Web du Wagon, où j'ai été formé en full-stack Ruby-on-Rails.
+Développeur Wordpress Freelance depuis plusieurs années, j'ai travaillé en parallèle dans le cinéma documentaire et la communication. Aujourd'hui je suis développeur junior JS, Ruby on Rails, web et mobile.
 
-I've been a freelance Wordpress developer, and have also worked in documentary film and communications. In 2023, I decided to broaden my range of skills by joining Le Wagon's Web Development bootcamp, where I was trained in full-stack Ruby-on-Rails.
+I've been a freelance Wordpress developer, and have also worked in documentary film and communications. Today I'm a junior JS, Ruby on Rails, web and mobile developer.
 
 ---
 
