@@ -1,6 +1,6 @@
 # Antoine Chosson
 
-**`Junior Front-End Developer | Wordpress Developer | Documentary Filmmaker`**
+**`Junior Front-End Developer, web and mobile | Wordpress Developer | Documentary Filmmaker`**
 
 Développeur Wordpress Freelance depuis plusieurs années, j'ai travaillé en parallèle dans le cinéma documentaire et la communication. Aujourd'hui je suis développeur junior JS, Ruby on Rails, web et mobile.
 
