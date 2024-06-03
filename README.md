@@ -2,9 +2,9 @@
 
 **`Front-End Developer, web and mobile | Wordpress Developer | Documentary Filmmaker`**
 
-Développeur Wordpress Freelance depuis plusieurs années, j'ai travaillé en parallèle dans le cinéma documentaire et la communication. Aujourd'hui je suis développeur junior JS, Ruby on Rails, web et mobile.
+Développeur Wordpress Freelance depuis plusieurs années, j'ai travaillé en parallèle dans le cinéma documentaire et la communication. Aujourd'hui je suis développeur web et mobile.
 
-I've been a freelance Wordpress developer for several years, I've also worked in documentary film and communications. Today I'm a junior JS, Ruby on Rails, web and mobile developer.
+I've been a freelance Wordpress developer for several years, I've also worked in documentary film and communications. Today I'm a web and mobile developer.
 
 ---
 
